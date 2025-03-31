@@ -7,6 +7,7 @@ Alumnos:
 Luciana Dughetti
 Emiliano
 Cecilia Colley Illueca
+Acosta Maximiliano
 
 
 -- Fin del doc.
