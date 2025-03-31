@@ -3,8 +3,10 @@ Escribir tu nombre abajo de la palabra "Alumnos".
 Profe: Vale Colombo
 
 Alumnos:
+
 Luciana Dughetti
 Emiliano
+Cecilia Colley Illueca
 
 
 -- Fin del doc.
